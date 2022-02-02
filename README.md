@@ -4,9 +4,6 @@
  
 # Vehicule's Licence Plate Detection    
 
-
-![CI testing](https://github.com/PyTorchLightning/deep-learning-project-template/workflows/CI%20testing/badge.svg?branch=master&event=push)
-
  </div>
 
  ## Table of contents
