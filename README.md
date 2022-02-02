@@ -2,7 +2,7 @@
 
 <div align="center">    
  
-# Vehicule's Licence Plate Detection    
+# Vehicule's License Plate Detection    
 
  </div>
 
