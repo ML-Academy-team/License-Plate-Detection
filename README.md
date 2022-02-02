@@ -7,21 +7,33 @@
 
 ![CI testing](https://github.com/PyTorchLightning/deep-learning-project-template/workflows/CI%20testing/badge.svg?branch=master&event=push)
 
+ </div>
 
  ## Table of contents
 
-- [Quick start](#quick-start)
+- [Description](#description)
 - [What's included](#whats-included)
+- [How to run](#how-to-run)
 - [Results](#results)
 - [Possible improvements](#possible-improvements)
-- [Creator](#creators)
+- [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
  
 ## Description   
-What it does   
+
+
+## What's included
+
+1. Exploratory Data Analysis
+    
+
+2. Licence-Plate-Detection
+    
+
 
 ## How to run   
-First, install dependencies   
+First, install dependencies 
+
 ```bash
 # clone project   
 https://github.com/BHafsa/Licence-Plate-Detection
@@ -31,12 +43,24 @@ https://github.com/BHafsa/Licence-Plate-Detection
 
 ```
 
-### Citation   
+## Results
+```bash
+# To be filled later
+  
+
 ```
-@article{YourName,
-  title={Your Title},
-  author={Your team},
-  journal={Location},
-  year={Year}
-}
-```   
+
+## Possible improvements
+```bash
+# To be filled later
+  
+
+```
+
+## Creators
+[**Hafsa Bousbiat **](https://github.com/BHafsa)
+[** Chihab Fortas **](https://github.com/ChihabFortas)
+[** Salah Abla **](https://github.com/AblaSalah)
+[** Amine Belgaid **](https://github.com/MineBelgaid)
+
+
