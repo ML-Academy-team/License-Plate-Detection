@@ -59,8 +59,11 @@ https://github.com/BHafsa/Licence-Plate-Detection
 
 ## Creators
 [**Hafsa Bousbiat **](https://github.com/BHafsa)
-[** Chihab Fortas **](https://github.com/ChihabFortas)
-[** Salah Abla **](https://github.com/AblaSalah)
-[** Amine Belgaid **](https://github.com/MineBelgaid)
+
+[**Chihab Fortas **](https://github.com/ChihabFortas)
+
+[**Salah Abla **](https://github.com/AblaSalah)
+
+[**Amine Belgaid **](https://github.com/MineBelgaid)
 
 
