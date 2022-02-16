@@ -4,13 +4,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='licence-plate-detection',
-    version='0.0.0',
+    version='0.1.0',
     description='Tunisian vehicules licence plate detection package',
     author='',
     author_email='',
-    # REPLACE WITH YOUR OWN GITHUB PROJECT LINK
     url='https://github.com/BHafsa/Licence-Plate-Detection',
-    install_requires=['tensorflow'],
+    install_requires=['tensorflow', 'keras-ocr', ''],
     packages=find_packages(),
 )
 
