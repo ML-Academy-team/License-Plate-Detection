@@ -22,6 +22,8 @@ Vehicle License plate detection and recognition is a well-known challenge that h
 A set of vehicle images (900 images) taken from the internet and annotated manually. The annotations are the coordinates of the bounding box containing the license plate.
 A set of license plate images (900 images) where the annotations are the text written in the license plate.
 
+![image](system.png)
+
 ## What's included
 
 1. Exploratory Data Analysis

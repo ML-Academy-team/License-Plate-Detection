@@ -1,0 +1,3 @@
+[submodule "project/image_preprocess"]
+	path = project/image_preprocess
+	url = https://github.com/Paperspace/DataAugmentationForObjectDetection
