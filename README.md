@@ -10,9 +10,6 @@
 
 - [Description](#description)
 - [What's included](#whats-included)
-- [How to run](#how-to-run)
-- [Results](#results)
-- [Possible improvements](#possible-improvements)
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
  
@@ -33,31 +30,7 @@ A set of license plate images (900 images) where the annotations are the text wr
     
 
 
-## How to run   
-First, install dependencies 
 
-```bash
-# clone project   
-https://github.com/BHafsa/Licence-Plate-Detection
-
-# do something   
-
-
-```
-
-## Results
-```bash
-# To be filled later
-  
-
-```
-
-## Possible improvements
-```bash
-# To be filled later
-  
-
-```
 
 ## Creators
 **Hafsa Bousbiat** [contact](https://github.com/BHafsa)
